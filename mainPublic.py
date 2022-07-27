@@ -1,1 +1,3 @@
-print("helloXD")
+print("hello")
+print("New message")
+
